@@ -15,7 +15,7 @@
 
 📝 Roles: Creative - Designer - Developer - Basic Troubleshooting - Freelance Programmer 
 
-📫 Contacto: **andyporrasnotario@gmail.com**
+📫 Contact: **andyporrasnotario@gmail.com**
 <!--Intro end-->
   </p>
 <br>
