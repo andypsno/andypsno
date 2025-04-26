@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm es Andy Porras / AnDev </h1> 
+<h1 align="center">Hello I'm Andy Porras / AnDev </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/andy-porras-notario-82ba252a6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andypsno"/></a>
