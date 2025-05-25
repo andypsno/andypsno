@@ -20,10 +20,23 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,&perline=12" />
   </a>
 </p>
+
+<br>
+<h2 >Academic training 📖</h2>
+<p align="left">
+🎓 High School - Liceo de Moravia (Costa Rica) 
+
+💻 Udemy - The Complete Full-Stack Web Development Bootcamp 
+
+📝 Institute Intesa - English Course  
+
+📫 Contact: **andyporrasnotario@gmail.com**
+<!--Intro end-->
+  </p>
