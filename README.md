@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Web Developer in Process
 
-💻 2 Years of experience in the Web Development Process 
+💻 2 Years of experience in Web Development 
 
 📝 Roles: Creative - Designer - Developer - Basic Troubleshooting - Freelance Programmer 
 
