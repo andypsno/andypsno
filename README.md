@@ -30,7 +30,7 @@
 
 <br>
 <h2 >Laboral Experience 👜</h2>
-<h3 align="center"> 👥 Web Developer, Rapicontas S.A.</h3>
+<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
 <h4 align="left"> (Feb 2022 - Oct 2023)</h4>
 <p align="left">
   Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
