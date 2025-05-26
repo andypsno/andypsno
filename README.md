@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-I'm <span style="text-decoration: underline; text-decoration-thickness: 3px;">Junior Web Developer</span>  who is passionate about technologies and tools such us CSS3, HTML5, JavaScript, Webflow and Figma. I am currently studying and I looking for chance for offer my skills. 
+I'm <span style="text-decoration: underline; text-decoration-thickness: 3px;">Junior Web Developer</span> who is passionate about new technologies and tools such us Webflow and Figma. I am currently studying and I looking for chance for offer my skills. 
 
 My passion began by programming since I was curious about her. I understood that I had a self-taught ability and an obsession to discover this wonderful world full of possibilities to imagine and create without limits. Every day I intend to adapt to the new changes, in addition to overcoming my obstacles and learning from my mistakes.
 
