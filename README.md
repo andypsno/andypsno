@@ -9,9 +9,14 @@
 <!--Intro start-->
 
 <p align="left">
+Young, serious, dynamic, wanting a future and growing labor. I have remarkable skills as a good presence, imagination and initiative to develop new ideas, ease to solve as a team, empathetic, with the ability to serve with a lot of tolerance and patience, enthusiastic, honest, responsible, punctual, punctual,
+with a gift of creativity.
+
+My passion began by programming since I was curious about her. I understood that I had a self -taught ability and an obsession to discover this wonderful world full of possibilities to imagine and create without limits. Every day I intend to adapt to the new changes, in addition to overcoming my obstacles and learning from my mistakes.
+
 🎓 Web Developer in Process
 
-💻 2 Years of experience in Web Development 
+💻 3 Years of experience in Web Development 
 
 📝 Roles: Creative - Designer - Developer - Basic Troubleshooting - Freelance Programmer 
 
