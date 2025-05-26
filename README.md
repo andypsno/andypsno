@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Andy Porras / AnDev </h1> 
+<h1 align="center">Hello I'm Andy Porras </h1> 
 
 <p align="center">
 <a href="https://linkedin.com/in/andy-porras-notario-82ba252a6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andypsno"/></a>
@@ -9,27 +9,33 @@
 <!--Intro start-->
 
 <p align="left">
-Young, serious, dynamic, wanting a future and growing labor. I have remarkable skills as a good presence, imagination and initiative to develop new ideas, ease to solve as a team, empathetic, with the ability to serve with a lot of tolerance and patience, enthusiastic, honest, responsible, punctual, punctual,
-with a gift of creativity.
+I'm Junior Web Developer who is passionate about technologies and tools such us CSS3, Node.js, SQL, JavaScript and . I am currently studying and I looking for chance for offer my skills. 
 
-My passion began by programming since I was curious about her. I understood that I had a self -taught ability and an obsession to discover this wonderful world full of possibilities to imagine and create without limits. Every day I intend to adapt to the new changes, in addition to overcoming my obstacles and learning from my mistakes.
+My passion began by programming since I was curious about her. I understood that I had a self-taught ability and an obsession to discover this wonderful world full of possibilities to imagine and create without limits. Every day I intend to adapt to the new changes, in addition to overcoming my obstacles and learning from my mistakes.
 
 🎓 Web Developer in Process
 
-💻 3 Years of experience in Web Development 
+💻 1 Year of experience in Web Development 
 
-📝 Roles: Creative - Designer - Developer - Basic Troubleshooting - Freelance Programmer 
+📝 Roles: Creative - Designer - Imaginator - Basic Troubleshooting - Freelance Programmer 
 
 📫 Contact: **andyporrasnotario@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Technologies👨🏻‍💻</h2>
+<h2>Technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,wordpress,&perline=12" />
+  </a>
+</p>
+<h3 align="center">Coming soon</h3>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,expressjs,git,github,postgresql,php,react,figma,webflow,pycharm&perline=12" />
   </a>
 </p>
 
@@ -42,7 +48,7 @@ My passion began by programming since I was curious about her. I understood that
 </p>
 
 <h3 align="left"> 👥 Web Developer, B&J Asociados</h3>
-<h4 align="left"> (Feb 2022 - Oct 2023)</h4>
+<h4 align="left"> (Ene 2024 - Jun 2024)</h4>
 <p align="left">
   Website considered to increase the visibility of services, give transparency and professionalist to the company. The objective was to draw user attention, summarize excess information and facilitate communication between customers.  
 </p>
