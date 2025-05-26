@@ -29,14 +29,32 @@
 </p>
 
 <br>
+<h2 >Laboral Experience 🧑‍💻</h2>
+<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
+<h4 align="left"> (Feb 2022 - Oct 2023)</h4>
+<p align="left">
+  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+</p>
+
+<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
+<h4 align="left"> (Feb 2022 - Oct 2023)</h4>
+<p align="left">
+  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+</p>
+
+<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
+<h4 align="left"> (Feb 2022 - Oct 2023)</h4>
+<p align="left">
+  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+</p>
+
+<br>
 <h2 >Academic training 📖</h2>
 <p align="left">
-🎓 High School - Liceo de Moravia (Costa Rica) 
+📈 High School - Liceo de Moravia (Costa Rica) 
 
 💻 Udemy - The Complete Full-Stack Web Development Bootcamp 
 
-📝 Institute Intesa - English Course  
-
-📫 Contact: **andyporrasnotario@gmail.com**
+💬 Institute Intesa - English Course  
 <!--Intro end-->
   </p>
