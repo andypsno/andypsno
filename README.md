@@ -36,16 +36,16 @@
   Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
 </p>
 
-<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
+<h3 align="left"> 👥 Web Developer, B&J Asociados</h3>
 <h4 align="left"> (Feb 2022 - Oct 2023)</h4>
 <p align="left">
-  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+  Website considered to increase the visibility of services, give transparency and professionalist to the company. The objective was to draw user attention, summarize excess information and facilitate communication between customers.  
 </p>
 
-<h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
-<h4 align="left"> (Feb 2022 - Oct 2023)</h4>
+<h3 align="left"> 👥 Shopify Developer, Dental Rocks Store</h3>
+<h4 align="left"> (Nov 2024 - Feb 2025)</h4>
 <p align="left">
-  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+  Creation, administration and maintenance of website. The point of the project was to remodel the color palette, to be visually attractive and boost sales. Marketing control and basic use of CSS. Assertive communication development with my client.  
 </p>
 
 <br>
