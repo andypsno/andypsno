@@ -28,14 +28,14 @@ My passion began by programming since I was curious about her. I understood that
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,wordpress,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,vscode,visualstudio,sqlite,notion,&perline=12" />
   </a>
 </p>
 <h3 align="center">Coming soon</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,expressjs,git,github,postgresql,php,react,figma,webflow,pycharm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,git,postgresql,azure,aws,react,pycharm,figma,webflow,&perline=12" />
   </a>
 </p>
 
