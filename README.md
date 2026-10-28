@@ -9,15 +9,17 @@
 <!--Intro start-->
 
 <p align="left">
-I'm Junior Web Developer who is passionate about new technologies and tools such us Webflow and Figma. I am currently studying and I looking for chance for offer my skills. 
+Data Analyst & Web Developer with a hands-on experience deploying functional web platforms. Trained with hands-on SSIS / SQL Server ETL project experience and real-client work replacing manual processes with MySQL databases and automated API workflows. Trained in data validation, SQL, Python and Power BI dashboards. Analytical and a fast learner who understands technical concepts clearly.
+  
+I'm Junior Web Developer who is passionate about new technologies and AI tools such us Cursor and Claude. I am currently studying and I looking for chance for offer my skills. 
 
 My passion began by programming since I was curious about her. I understood that I had a self-taught ability and an obsession to discover this wonderful world full of possibilities to imagine and create without limits. Every day I intend to adapt to the new changes, in addition to overcoming my obstacles and learning from my mistakes.
 
-🎓 Data Analyst and Web Developer in Process
+🎓 Data Analyst and Web Developer
 
 💻 1 Year of experience in Web Development 
 
-📝 Roles: Programmer - Designer - Troubleshooting - Teamwork  
+📝 Roles: - Self-taught - Effective team communication - Stress management - Initiative to develop ideas - Collaborative problem-solving - Curiosity and eagerness to learn - Designer - Troubleshooting -  
 
 📫 Contact: **andyporrasnotario@gmail.com**
 <!--Intro end-->
@@ -62,7 +64,8 @@ My passion began by programming since I was curious about her. I understood that
 <br>
 <h2 >Academic training 📖</h2>
 <p align="left">
-📈 Universidad Hispanoamericana - Data Analyst Technician
+📈 Associate in Data Analyst - Universidad Hispanoamericana (2025 - 2027)
+📈 High School - International Baccalaureate Liceo de Moravia (2022 - 2023)
   </p>
 
 <h3 >Courses 🧩</h3>
