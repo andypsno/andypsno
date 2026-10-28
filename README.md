@@ -46,33 +46,54 @@ My passion began by programming since I was curious about her. I understood that
 <h3 align="left"> 👥 Shopify Developer, Dental Rocks Store</h3>
 <h4 align="left"> (Nov 2024 - Feb 2025)</h4>
 <p align="left">
-  Creation, administration and maintenance of website. The point of the project was to remodel the color palette, to be visually attractive and boost sales. Marketing control and basic use of CSS. Assertive communication development with my client.  
+Designed and developed an online store on <strong>Shopify</strong>, customizing it with <strong>HTML, CSS, and Liquid</strong>. Created the visual proposal, managed the site's design and administration, and made adjustments in coordination with the client. Strengthened competencies in <strong>e-commerce</strong>, image editing, and adaptation to new tools.
 </p>
 
 <h3 align="left"> 👥 Web Developer, B&J Asociados</h3>
 <h4 align="left"> (Ene 2024 - Jun 2024)</h4>
 <p align="left">
-  Website considered to increase the visibility of services, give transparency and professionalist to the company. The objective was to draw user attention, summarize excess information and facilitate communication between customers.  
+  <lu>
+    <li>Re-engineered the client’s website using <strong>Bootstrap</strong> for full mobile responsiveness, enhancing <strong>UI/UX</strong> and cross-device accessibility.</li>
+    <li>Replaced manual Excel logging with <strong>MySQL</strong> and automated <strong>API workflows</strong> to route form submissions directly into enterprise Gmail in real time.</li>
+    <li>Gathered business requirements directly with key stakeholders to align technical upgrades with operational goals.</li>
+  </lu>
 </p>
 
 <h3 align="left"> 👥 Web Developer, Rapicontas S.A.</h3>
 <h4 align="left"> (Feb 2022 - Oct 2023)</h4>
 <p align="left">
-  Labor internship, starting my work experience as a planner, developer and designer of the website through technological tools. As a goal to promote the advertising of my client's company.  
+  <lu>
+    <li>Built and launched a responsive web application using <strong>Visual Studio Code, Bootstrap, and Dreamweaver</strong> to establish the client’s digital footprint.</li>
+    <li>Designed corporate identity assets, logo, and intuitive page layouts to ensure brand alignment.</li>
+    <li>Engineered an automated lead capture form using <strong>API</strong> to route customer inquiries directly into an <strong>Excel database</strong> for initial data collection.</li>
+    <li>Coordinated directly with the client to resolve their inquiries and project requirements.</li>
+  </lu>
 </p>
 
 <br>
 <h2 >Academic training 📖</h2>
 <p align="left">
-📈 Associate in Data Analyst - Universidad Hispanoamericana (2025 - 2027)
-📈 High School - International Baccalaureate Liceo de Moravia (2022 - 2023)
+📈 <strong>Associate in Data Analyst</strong> - Universidad Hispanoamericana (2025 - 2027)
+📈 High School - <strong>International Baccalaureate</strong> Liceo de Moravia (2022 - 2023)
   </p>
 
 <h3 >Courses 🧩</h3>
 <p align="left">
-💻 Udemy - The Complete Full-Stack Web Development Bootcamp 
+💻 Google Cloud Data Analytics Certificate (Beginner) — Google Skills
+
+💻 Certification Power BI - Santander Open Academy 
   
-💻 Domestika - Introduction to PHP Web Development
+💻 Udemy - The Complete Full-Stack Web Development Bootcamp 
 
 💻 Udemy - MCP para Agentes de IA: Claude, VSCode y Copilot
+  
+💻 Domestika - Introduction to PHP Web Development
   </p>
+
+
+<h3 >Projects 📋</h3>
+<p align="left">
+📈 Relevant coursework: Data Architecture, SQL Server, ETL/SSIS, Data Modeling, Power BI.
+  </p>
+
+  
