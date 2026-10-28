@@ -74,6 +74,7 @@ Designed and developed an online store on <strong>Shopify</strong>, customizing 
 <h2 >Academic training 📖</h2>
 <p align="left">
 📈 <strong>Associate in Data Analyst</strong> - Universidad Hispanoamericana (2025 - 2027)
+
 📈 High School - <strong>International Baccalaureate</strong> Liceo de Moravia (2022 - 2023)
   </p>
 
