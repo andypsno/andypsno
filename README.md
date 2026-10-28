@@ -35,7 +35,7 @@ My passion began by programming since I was curious about her. I understood that
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,git,postgresql,azure,aws,react,pycharm,figma,webflow,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,git,linux,postgresql,azure,aws,react,pycharm,figma,webflow,&perline=12" />
   </a>
 </p>
 
